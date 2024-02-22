@@ -1,0 +1,31 @@
+part1
+-------
+daily routine Q asked by  speaker to patient
+e.g how you are feeling today?
+anywhere pain?> Deep
+
+
+part2
+----
+patient asking other Q to speaker
+e.g. Can I have fruit today
+when is my expected discharge date
+tell me a joke > Deep
+
+part3
+-----
+IoT
+patient will say-turn off the light
+lower fan speed for me
+
+
+
+STT
+- NLP ( Watson assistant x)
+	- intents and entities defined as per the above flow
+	- routine
+	- food
+	- medicine
+	Scope to introduce GenAI here
+-> all responses will be saved to data
+26385547
